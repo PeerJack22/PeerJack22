@@ -14,7 +14,7 @@ Soy estudiante de desarrollo de software, apasionado por la tecnología y el apr
 ## 🚀 Proyectos favoritos
 
 ### [GreenShop](https://github.com/PeerJack22/greenShop)
-Una aplicación enfocada en promover el comercio sostenible y ecológico. Con GreenShop aprendí sobre el desarrollo de aplicaciones web y la importancia de crear soluciones útiles para el mundo actual.
+Una aplicación enfocada en promover el comercio sostenible y ecológico. Con GreenShop aprendí sobre el desarrollo de aplicaciones y la importancia de crear soluciones útiles para el mundo actual.
 
 ### Panaroom (en progreso)
 Un proyecto que actualmente está en desarrollo, cuyo objetivo es crear herramientas innovadoras para la gestión de espacios y recursos. ¡Pronto compartiré más detalles!
